@@ -1,2 +1,1 @@
-# Investigate-a-Dataset
-In this project, I analyzed a data set and then communicated my findings about it. I l used the Python libraries NumPy, Pandas, and Matplotlib to make my analysis easier
+I conducted my own data analysis and created a file to share that documents your findings. I started by taking a look at my dataset and brainstorming what questions I  could answer using it. I chose the Lahman Baseball Dataset (http://www.seanlahman.com/baseball-archive/statistics/), as the dataset for my analysis. Then I used Pandas and NumPy to answer the questions I was most interested in, and created a report sharing the answers. 
